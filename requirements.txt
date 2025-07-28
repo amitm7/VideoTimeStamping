@@ -1,0 +1,8 @@
+torch
+torchaudio
+faster-whisper
+scenedetect[opencv]
+easyocr
+opencv-python
+openai
+ffmpeg-python

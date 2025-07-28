@@ -1,0 +1,251 @@
+00:00 - 00:05: Introduction
+00:05 - 00:10: Guest Introduction
+00:10 - 00:12: Topic A
+00:26 - 00:57: Ad
+00:57 - 01:00: Promo
+01:30 - 01:33: Topic B
+01:36 - 01:39: Summary
+99.44 - 103.18: Topic A
+103.18 - 107.38: Topic A
+114.82 - 118.10: Topic B
+118.10 - 119.28: Topic B
+119.28 - 122.28: Topic B
+122.28 - 124.48: Topic B
+124.48 - 125.32: Topic B
+125.72 - 127.08: Topic B
+127.38 - 128.58: Topic B
+128.68 - 130.48: Topic B
+scene_007.jpg - scene_013.jpg: Ad
+scene_017.jpg - scene_029.jpg: Topic A
+scene_032.jpg - scene_042.jpg: Topic A
+scene_045.jpg - scene_051.jpg: Topic A
+scene_052.jpg - scene_056.jpg: Topic A
+scene_057.jpg - scene_060.jpg: Topic A
+scene_062.jpg - scene_064.jpg: Topic A
+scene_065.jpg - scene_067.jpg: Topic A
+scene_068.jpg - scene_070.jpg: Topic A
+scene_071.jpg - scene_074.jpg: Topic A
+scene_075.jpg - scene_078.jpg: Topic A
+scene_079.jpg - scene_082.jpg: Topic A
+scene_085.jpg - scene_090.jpg: Topic A
+scene_091.jpg - scene_097.jpg: Topic A
+scene_099.jpg - scene_101.jpg: Topic A
+scene_1000.jpg - scene_1009.jpg: Summary
+130.48 - 151.64: Introduction
+151.64 - 161.82: Topic A
+183.70 - 196.70: Topic A
+scene_007.jpg - scene_011.jpg: Ad
+scene_012.jpg - scene_013.jpg: Ad
+scene_017.jpg - scene_021.jpg: Topic B
+scene_022.jpg - scene_029.jpg: Topic B
+scene_030.jpg - scene_043.jpg: Topic B
+scene_045.jpg - scene_051.jpg: Topic B
+scene_052.jpg - scene_056.jpg: Topic B
+scene_057.jpg - scene_060.jpg: Topic B
+scene_061.jpg - scene_064.jpg: Topic B
+scene_065.jpg - scene_070.jpg: Topic B
+scene_071.jpg - scene_074.jpg: Topic B
+scene_075.jpg - scene_078.jpg: Topic B
+scene_079.jpg - scene_082.jpg: Topic B
+scene_083.jpg - scene_087.jpg: Topic B
+scene_088.jpg - scene_090.jpg: Topic B
+scene_091.jpg - scene_097.jpg: Topic B
+scene_098.jpg - scene_101.jpg: Summary
+scene_1000.jpg - scene_1011.jpg: Summary
+196.70 - 200.70: Topic A
+206.70 - 209.70: Topic A
+210.70 - 213.70: Topic A
+213.70 - 216.70: Topic A
+216.70 - 219.70: Topic A
+219.70 - 221.70: Topic A
+221.70 - 223.70: Topic A
+229.70 - 232.70: Topic A
+232.70 - 235.48: Ad
+238.30 - 239.32: Ad
+239.32 - 247.92: Topic A
+scene_000.jpg - scene_006.jpg: Promo
+scene_007.jpg - scene_013.jpg: Ad
+scene_014.jpg - scene_027.jpg: Topic B
+scene_028.jpg - scene_043.jpg: Topic A
+scene_044.jpg - scene_057.jpg: Topic B
+scene_058.jpg - scene_063.jpg: Ad
+scene_064.jpg - scene_073.jpg: Topic A
+scene_074.jpg - scene_083.jpg: Topic B
+scene_084.jpg - scene_099.jpg: Summary
+scene_1000.jpg - scene_1011.jpg: Ad
+247.92 - 248.58: Ad
+248.58 - 249.50: Ad
+249.50 - 250.84: Ad
+250.84 - 251.68: Ad
+251.68 - 252.52: Ad
+252.52 - 253.84: Ad
+253.84 - 254.70: Ad
+260.62 - 261.88: Topic A
+261.88 - 265.38: Topic A
+268.88 - 271.88: Topic A
+scene_000.jpg - scene_011.jpg: Ad
+scene_012.jpg - scene_014.jpg: Topic B
+scene_015.jpg - scene_030.jpg: Topic B
+scene_031.jpg - scene_043.jpg: Topic B
+scene_044.jpg - scene_051.jpg: Topic B
+scene_052.jpg - scene_056.jpg: Topic B
+scene_057.jpg - scene_063.jpg: Topic B
+scene_064.jpg - scene_081.jpg: Topic B
+scene_082.jpg - scene_100.jpg: Topic B
+scene_1000.jpg - scene_1009.jpg: Summary
+scene_1010.jpg - scene_1011.jpg: Summary
+275.38 - 280.38: Topic A
+283.38 - 285.58: Topic A
+285.58 - 288.38: Topic A
+288.88 - 290.38: Topic A
+291.38 - 293.88: Topic A
+300.88 - 303.88: Topic A
+303.88 - 307.38: Topic A
+307.38 - 309.38: Topic A
+314.38 - 316.38: Topic A
+316.38 - 318.38: Topic A
+scene_007.jpg - scene_008.jpg: Ad
+scene_009.jpg - scene_010.jpg: Ad
+scene_011.jpg - scene_012.jpg: Ad
+scene_013.jpg - scene_014.jpg: Ad
+scene_015.jpg - scene_016.jpg: Ad
+scene_017.jpg - scene_018.jpg: Topic B
+scene_019.jpg - scene_020.jpg: Topic B
+scene_021.jpg - scene_022.jpg: Topic B
+scene_023.jpg - scene_024.jpg: Topic B
+scene_025.jpg - scene_026.jpg: Topic B
+scene_027.jpg - scene_028.jpg: Topic B
+scene_029.jpg - scene_030.jpg: Topic B
+scene_031.jpg - scene_032.jpg: Topic B
+scene_033.jpg - scene_034.jpg: Topic B
+scene_035.jpg - scene_036.jpg: Topic B
+scene_037.jpg - scene_038.jpg: Topic B
+scene_039.jpg - scene_040.jpg: Topic B
+scene_041.jpg - scene_042.jpg: Topic B
+scene_043.jpg - scene_044.jpg: Topic B
+scene_045.jpg - scene_046.jpg: Topic B
+scene_047.jpg - scene_048.jpg: Topic B
+scene_049.jpg - scene_050.jpg: Topic B
+scene_051.jpg - scene_052.jpg: Topic B
+scene_053.jpg - scene_054.jpg: Topic B
+scene_055.jpg - scene_056.jpg: Topic B
+scene_057.jpg - scene_058.jpg: Topic B
+scene_059.jpg - scene_060.jpg: Topic B
+scene_061.jpg - scene_062.jpg: Topic B
+scene_063.jpg - scene_064.jpg: Topic B
+scene_065.jpg - scene_066.jpg: Topic B
+scene_067.jpg - scene_068.jpg: Topic B
+scene_069.jpg - scene_070.jpg: Topic B
+scene_071.jpg - scene_072.jpg: Topic B
+scene_073.jpg - scene_074.jpg: Topic B
+scene_075.jpg - scene_076.jpg: Topic B
+scene_077.jpg - scene_078.jpg: Topic B
+scene_079.jpg - scene_080.jpg: Topic B
+scene_081.jpg - scene_082.jpg: Topic B
+scene_083.jpg - scene_084.jpg: Topic B
+scene_085.jpg - scene_086.jpg: Topic B
+scene_087.jpg - scene_088.jpg: Topic B
+scene_089.jpg - scene_090.jpg: Topic B
+scene_091.jpg - scene_092.jpg: Topic B
+scene_093.jpg - scene_094.jpg: Topic B
+scene_095.jpg - scene_096.jpg: Topic B
+scene_097.jpg - scene_098.jpg: Topic B
+scene_099.jpg - scene_100.jpg: Topic B
+scene_1000.jpg - scene_1001.jpg: Summary
+scene_1002.jpg - scene_1003.jpg: Summary
+scene_1004.jpg - scene_1005.jpg: Summary
+scene_1006.jpg - scene_1007.jpg: Summary
+scene_1008.jpg - scene_1009.jpg: Summary
+scene_1010.jpg - scene_1011.jpg: Summary
+05:00 - 05:00: Promo
+05:00 - 05:00: Ad
+06:00 - 06:01: Topic A
+06:01 - 06:03: Topic B
+06:03 - 06:04: Summary
+06:04 - 06:05: Topic A
+06:05 - 06:06: Summary
+06:50 - 06:50: Promo
+335.38 - 336.38: Ad
+336.38 - 362.12: Ad
+362.12 - 366.12: Topic A
+366.12 - 369.12: Topic A
+369.12 - 370.12: Topic A
+376.12 - 379.12: Topic A
+379.12 - 381.12: Topic A
+381.12 - 383.12: Topic A
+391.12 - 394.12: Topic B
+394.12 - 397.12: Topic B
+397.12 - 408.12: Topic A
+439.12 - 454.12: Topic A
+scene_006.jpg - scene_011.jpg: Ad
+scene_012.jpg - scene_014.jpg: Topic B
+scene_017.jpg - scene_021.jpg: Topic B
+scene_022.jpg - scene_030.jpg: Topic B
+scene_031.jpg - scene_041.jpg: Topic B
+scene_045.jpg - scene_051.jpg: Topic B
+scene_052.jpg - scene_056.jpg: Topic B
+scene_057.jpg - scene_060.jpg: Topic B
+scene_061.jpg - scene_064.jpg: Topic B
+scene_065.jpg - scene_070.jpg: Topic B
+scene_071.jpg - scene_074.jpg: Topic B
+scene_075.jpg - scene_078.jpg: Topic B
+scene_079.jpg - scene_082.jpg: Topic B
+scene_083.jpg - scene_086.jpg: Topic B
+scene_087.jpg - scene_090.jpg: Topic B
+scene_091.jpg - scene_097.jpg: Topic B
+scene_098.jpg - scene_101.jpg: Topic B
+scene_1000.jpg - scene_1011.jpg: Summary
+461.12 - 487.12: Topic A
+470.12 - 487.12: Topic A
+480.12 - 487.12: Topic A
+scene_007.jpg - scene_011.jpg: Ad
+scene_012.jpg - scene_013.jpg: Ad
+scene_017.jpg - scene_021.jpg: Topic B
+scene_022.jpg - scene_026.jpg: Topic B
+scene_027.jpg - scene_029.jpg: Topic B
+scene_030.jpg - scene_034.jpg: Topic B
+scene_035.jpg - scene_037.jpg: Topic B
+scene_038.jpg - scene_040.jpg: Topic B
+scene_041.jpg - scene_043.jpg: Topic B
+scene_045.jpg - scene_051.jpg: Topic B
+scene_052.jpg - scene_056.jpg: Topic B
+scene_057.jpg - scene_060.jpg: Topic B
+scene_061.jpg - scene_064.jpg: Topic B
+scene_065.jpg - scene_069.jpg: Topic B
+scene_070.jpg - scene_074.jpg: Topic B
+scene_075.jpg - scene_078.jpg: Topic B
+scene_079.jpg - scene_082.jpg: Topic B
+scene_083.jpg - scene_087.jpg: Topic B
+scene_088.jpg - scene_090.jpg: Topic B
+scene_091.jpg - scene_097.jpg: Topic B
+scene_098.jpg - scene_101.jpg: Topic B
+scene_1000.jpg - scene_1009.jpg: Summary
+scene_1010.jpg - scene_1011.jpg: Summary
+490.12 - 492.12: Topic A
+492.12 - 494.12: Topic A
+500.12 - 502.12: Topic A
+502.12 - 503.12: Topic A
+503.12 - 504.12: Topic A
+510.12 - 512.12: Topic A
+512.12 - 513.12: Topic A
+513.12 - 515.12: Topic A
+515.12 - 517.12: Topic A
+517.12 - 519.12: Topic A
+scene_007.jpg - scene_011.jpg: Ad
+scene_012.jpg - scene_013.jpg: Ad
+scene_014.jpg - scene_030.jpg: Topic B
+scene_031.jpg - scene_056.jpg: Topic B
+scene_057.jpg - scene_060.jpg: Topic B
+scene_061.jpg - scene_064.jpg: Topic B
+scene_065.jpg - scene_081.jpg: Topic B
+scene_082.jpg - scene_099.jpg: Topic B
+scene_100.jpg - scene_1009.jpg: Summary
+05:00 - 05:04: Ad
+05:04 - 05:08: Ad
+05:08 - 05:10: Ad
+05:10 - 05:12: Ad
+05:12 - 05:20: Topic A
+05:20 - 05:38: Topic B
+05:38 - 05:50: Summary
+05:50 - 06:00: Promo
+06:00 - 06:06: Summary
